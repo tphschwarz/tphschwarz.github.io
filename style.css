@@ -2,6 +2,6 @@ table{
 	border: 1px solid black;
 }
 
-th.heading{
+tr.heading{
 	text-align:center;
 }
